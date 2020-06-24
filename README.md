@@ -1,0 +1,2 @@
+# ideaSetting
+my idea setting
