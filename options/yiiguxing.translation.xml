@@ -1,0 +1,59 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="user Api" />
+      <item value="Plugin &quot;FindBugs-IDEA&quot; is incompatible (marked as broken)." />
+      <item value="The SpEL expression evaluates against a dedicated context that provides the * following meta-data" />
+      <item value="has been configured" />
+      <item value="unless" />
+      <item value="meaning all method parameters are considered as a ke" />
+      <item value="Spring Expression Language (SpEL) expression for computing the key dynamically" />
+      <item value="Returns the item associated with the passed key" />
+      <item value="This is the equivalent" />
+      <item value="Key has priority over index" />
+      <item value="eturns the item associated with the passed key OR index." />
+      <item value="Review" />
+      <item value="Wrap" />
+      <item value="SIMPLIFY" />
+      <item value="performed" />
+      <item value="concurrent reduction" />
+      <item value="reduction" />
+      <item value="concurrent" />
+      <item value="then a concurrent" />
+      <item value="unordered" />
+      <item value="either" />
+      <item value="and * either the stream is unordered" />
+      <item value="If the stream is parallel" />
+      <item value="parallel" />
+      <item value="map Conditions" />
+      <item value="calculate Commission" />
+      <item value="Commission Rule" />
+      <item value="company Billcondition" />
+      <item value="next Month From" />
+      <item value="Date Util" />
+      <item value="next Month" />
+      <item value="String" />
+      <item value="month" />
+      <item value="repeal" />
+      <item value="Override" />
+      <item value="Autowired" />
+      <item value="Profit Service Impl" />
+      <item value="Logger" />
+      <item value="author" />
+      <item value="bizChange" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="BOSNIAN" value="1" />
+        <entry key="DANISH" value="2" />
+        <entry key="ROMANIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

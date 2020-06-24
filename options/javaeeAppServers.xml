@@ -1,0 +1,30 @@
+<application>
+  <component name="AppserversManager">
+    <ServerDK NAME="Tomcat 8.0">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="D:/WorkSoft/Tomcat/apache-tomcat-8.0.36" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <ServerDK NAME="Tomcat 8.5">
+      <option name="SOURCE_INTEGRATION_NAME" value="Tomcat Server" />
+      <DATA>
+        <option name="CATALINA_HOME" value="D:/WorkSoft/Tomcat/apache-tomcat-8.5.30" />
+        <option name="CATALINA_BASE" value="" />
+      </DATA>
+    </ServerDK>
+    <LibraryTable>
+      <library name="Tomcat 8.0">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+      <library name="Tomcat 8.5">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </LibraryTable>
+  </component>
+</application>

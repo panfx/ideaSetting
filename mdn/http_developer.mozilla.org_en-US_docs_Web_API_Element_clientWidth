@@ -1,0 +1,1 @@
+The <code><strong>Element.clientWidth</strong></code> property is zero for inline elements and elements with no CSS; otherwise, it's the inner width of an element in pixels. It includes padding but excludes borders, margins, and vertical scrollbars (if present).

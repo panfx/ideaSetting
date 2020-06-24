@@ -1,0 +1,5 @@
+<templateSet group="JavaScript Testing">
+  <template name="bf" value="before(function() {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

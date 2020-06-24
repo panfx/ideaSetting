@@ -1,0 +1,10 @@
+POST http://localhost:8080/UserApi/updateBrscSyncStatus
+
+###
+
+POST http://localhost:8080/ProvisioningApi/update
+
+<> 2019-07-31T090540.400.json
+
+###
+

@@ -1,0 +1,198 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bigboss-provisioning-api/src/main/java/com/tinet/bigboss/provisioning/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="134" column="7" lean-forward="true" selection-start-line="134" selection-start-column="7" selection-end-line="134" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigboss-billing/src/main/java/com/tinet/bigboss/billing/task/CountOtherCallCostJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/resources/mapper/AccountMapper.xml" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/ProvisioningService.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/resources/mapper/HotlineMapper.xml" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/HotlineService.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/AuditHotlineAddValidProcessor.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/HotlineAddValidProcessor.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/controller/HotlineController.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning-api/src/main/java/com/tinet/bigboss/provisioning/api/HotlineApi.java" />
+        <option value="$PROJECT_DIR$/bigboss-billing/src/main/java/com/tinet/bigboss/billing/service/LogDeductionHotlineService.java" />
+        <option value="$PROJECT_DIR$/bigboss-web/src/main/java/com/tinet/bigboss/web/controller/PendingRateCallController.java" />
+        <option value="$PROJECT_DIR$/bigboss-openapi/src/main/java/com/tinet/bigboss/openapi/task/SyncHotlineAddToPlatformTask.java" />
+        <option value="$PROJECT_DIR$/bigboss-openapi/src/main/java/com/tinet/bigboss/openapi/task/SyncHotlineMigrateToPlatform.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/PendingHotlineService.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/mapper/HotlineMapper.java" />
+        <option value="$PROJECT_DIR$/bigboss-web/src/main/java/com/tinet/bigboss/web/controller/BizChangeController.java" />
+        <option value="$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/AccountClosedChangeValidProcessor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigboss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigboss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigboss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigboss" type="462c0819:PsiDirectoryNode" />
+              <item name="bigboss-provisioning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1030000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info anchor="right" id="Maven" order="3" weight="0.31750163" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="Flow" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Spring" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" weight="0.32965517" />
+      <window_info anchor="right" id="Word Book" order="4" side_tool="true" weight="0.32950708" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5003376" side_tool="true" weight="0.62984216" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="17" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="BPMNPalette" order="5" weight="0.12896691" />
+      <window_info anchor="bottom" id="Java Enterprise" order="5" />
+      <window_info anchor="bottom" id="Project Problems" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.4996624" weight="0.2553802" />
+      <window_info anchor="right" id="Ant" order="6" />
+      <window_info id="Commit" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2538825" />
+      <window_info anchor="bottom" id="Endpoints" order="5" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bigboss-billing-api/src/main/java/com/tinet/bigboss/billing/param/BillMonthParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigboss-billing/src/main/java/com/tinet/bigboss/billing/task/RecordLogRateJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="71" column="33" lean-forward="true" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigboss-web/src/main/java/com/tinet/bigboss/web/controller/HotlineController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigboss-provisioning/src/main/java/com/tinet/bigboss/provisioning/service/HotlineService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="87" column="40" selection-start-line="87" selection-start-column="40" selection-end-line="87" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigboss-billing/src/main/java/com/tinet/bigboss/billing/task/CountOtherCallCostJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="97" column="33" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigboss-provisioning/src/main/resources/processes/account_closed.bpmn">
+      <provider selected="true" editor-type-id="bpmn-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigboss-provisioning-api/src/main/java/com/tinet/bigboss/provisioning/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="134" column="7" lean-forward="true" selection-start-line="134" selection-start-column="7" selection-end-line="134" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

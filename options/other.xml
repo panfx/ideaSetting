@@ -1,0 +1,115 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="63345" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/nodejs/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Microsoft YaHei" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.41788322" />
+    <property name="ColorChooser.RecentColors" value="90-115-212-255,,,63-134-205-255,,,238-82-206-255,,,33-241-249-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.70149255" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="Endpoints_Group[0]" value="0.13860014" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.1331558" />
+    <property name="InstalledPluginsSearchHistory" value="/downloaded&#10;/outdated&#10;/bundled&#10;/invalid&#10;/disabled" />
+    <property name="JUnit.Splitter.Proportion" value="0.10354413" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.13689254" />
+    <property name="LiveContextsPanel[1]" value="0.15873016" />
+    <property name="MarketplacePluginsSearchHistory" value="/tag:Keymap&#10;/downloaded&#10;/invalid&#10;FindBugs-IDEA&#10;lom" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="Translation&#10;MyBatis Log Plugin&#10;CodeGlance&#10;RestfulToolkit&#10;java de" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.3087844" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="RunConfigurable.dividerProportion" value="0.28820962" />
+    <property name="SearchEveryWhereHistory" value="and&#10;0&#10;() {&#10;robot.xml&#10;=" />
+    <property name="SettingsSearchHistory" value="maven&#10;key&#10;keym&#10;Trans&#10;Translation" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.60882956" />
+    <property name="SplitFileEditor.Proportion" value="0.42763773" />
+    <property name="SpringBeansModulesPanel[0]" value="0.1283697" />
+    <property name="SpringBeansModulesPanel[1]" value="0.14738393" />
+    <property name="SpringBeansModulesPanel[2]" value="0.079513565" />
+    <property name="SpringMvcModulesPanel[0]" value="0.13908206" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.13908206" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="android-component-compatibility-check" value="1567992901561" />
+    <property name="appcds.runOnSecondStart" value="IU-201.7846.76-5e4181ab88e83d5484de2107fafb3a25226e066ace75ee8cc4a296b2ddf659c7" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.9.1" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.splitter" value="0.3224432" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="database.notebook.setting.id" value="7b49cde9-84b1-44a0-9f96-d5239c9ccc22" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.181" value="13" />
+    <property name="file.chooser.recent.files" value="D:/javaProject/bigboss&#10;F:/ideaConfig&#10;C:/Users/fuxue/Desktop/lombok-plugin-0.30-2020.1.zip&#10;D:/javaProject/brsc&#10;D:/jd-intellij-0.6.zip&#10;C:/Users/fuxue/Desktop/jd-gui-windows-1.6.6.zip&#10;D:/jd-gui-1.6.6.jar&#10;D:/javaTest&#10;D:/WorkSoft/Java/jdk1.8.0_101/bin/javap.exe&#10;D:/WorkSoft/Subversion/bin&#10;D:/WorkSoft/Subversion/bin/svn.exe&#10;D:/javaProject/brsc/brsc/src/main/java/com/tinet/brsc/model&#10;D:/javaProject/brsc/brsc/src/main/webapp/WEB-INF/lib&#10;D:/javaProject/brsc/bossapi&#10;D:/javaProject/brsc/brsc/target&#10;D:/javaProject/brsc/bossapi/target&#10;D:/WorkSoft/Java/jdk1.6&#10;D:/WorkSoft/Java/jre1.6&#10;D:/WorkSoft/Java/jdk1.6/jre&#10;C:/Users/fuxue/Desktop/bossapi_bigboss_20190618.war&#10;C:/Users/fuxue/Desktop/bossapi.war&#10;D:/javaProject/brsc/brsc/src/doc&#10;D:/javaProject/bigboss/bigboss-sdk&#10;C:/Program Files (x86)/Google/Chrome/Application/chrome.exe&#10;D:/brsc&#10;D:/WorkSoft/Java/jdk1.8.0_101&#10;F:/tianrun/BRSC/bossapi&#10;D:/javaProject/bigboss/bigboss-web/target&#10;D:/javaProject/brsc/brsc/src/main/webapp&#10;D:/javaProject/brsc/brsc/src/main/webapp/WEB-INF/web.xml" />
+    <property name="file.gist.reindex.count" value="75479" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="find.popup.splitter" value="0.31378764" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="idea.background.editor" value="E:\image\7.jpg,15,scale,center" />
+    <property name="idea.background.frame" value="E:\image\7.jpg,20,scale,center" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port" value="54131" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="kotlin.lastUpdateCheck" value="1592927186903" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.72-release-IJ2020.1-1:2020-04-14" />
+    <property name="last.imported.location" value="D:/javaProject/bigboss/bigboss-sdk" />
+    <property name="lastSeenTip" value="neue-MoveUpDown.html" />
+    <property name="lastTimeTipsWereShown" value="1592991343090" />
+    <property name="lastTip" value="170" />
+    <property name="last_opened_file_path" value="F:/ideaConfig" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="E:\image\1.jpg&#10;E:\image\7.jpg&#10;E:\image\2.jpg&#10;E:\image\3.jpg&#10;E:\image\4.jpg" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1592904147905" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="seenTips" value="neue-DiagramShowPopup.html,neue-MoveUpDown.html" />
+    <property name="selected.color.option.type" value="JAVA_KEYWORD" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.8.2" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.8699187" />
+    <property name="yii.guxing.translate.IdeaVersionUpgradeNotice.IU-181.5684.4.disable" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="mySvnCommandLine" value="D:\WorkSoft\Subversion\bin\svn.exe" />
+  </component>
+</application>

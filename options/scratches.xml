@@ -1,0 +1,6 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/provisioning.http" value="HTTP Request" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/web.http" value="HTTP Request" />
+  </component>
+</application>
