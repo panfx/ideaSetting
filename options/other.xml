@@ -25,7 +25,7 @@
     <property name="FileTemplates.CurrentTab" value="Includes" />
     <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
     <property name="FrameworksFinderRecursivePanel[0]" value="0.1331558" />
-    <property name="InstalledPluginsSearchHistory" value="/downloaded&#10;/outdated&#10;/bundled&#10;/invalid&#10;/disabled" />
+    <property name="InstalledPluginsSearchHistory" value="sett&#10;Manage&#10;Manag&#10;Mana&#10;Man" />
     <property name="JUnit.Splitter.Proportion" value="0.10354413" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="LAST_INJECTED_LANGUAGE" value="JSON" />
@@ -38,12 +38,14 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PLUGIN_FILTER" value="Translation&#10;MyBatis Log Plugin&#10;CodeGlance&#10;RestfulToolkit&#10;java de" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.3087844" />
     <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
     <property name="RunConfigurable.dividerProportion" value="0.28820962" />
     <property name="SearchEveryWhereHistory" value="and&#10;0&#10;() {&#10;robot.xml&#10;=" />
-    <property name="SettingsSearchHistory" value="maven&#10;key&#10;keym&#10;Trans&#10;Translation" />
+    <property name="SettingsSearchHistory" value="Manage&#10;Settings Re&#10;data&#10;keymap&#10;Encodings" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.60882956" />
     <property name="SplitFileEditor.Proportion" value="0.42763773" />
@@ -53,8 +55,9 @@
     <property name="SpringMvcModulesPanel[0]" value="0.13908206" />
     <property name="SpringRepositoriesModulesPanel[0]" value="0.13908206" />
     <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="UITheme.relaunch" value="true" />
     <property name="android-component-compatibility-check" value="1567992901561" />
-    <property name="appcds.runOnSecondStart" value="IU-201.7846.76-5e4181ab88e83d5484de2107fafb3a25226e066ace75ee8cc4a296b2ddf659c7" />
+    <property name="appcds.runOnSecondStart" value="IU-201.7846.76-6158a3d0e994da0264f7f57a69c504fbae89fd7d57961e0a956fc44a043395d0" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="cn.yiiguxing.plugin.translate.version" value="2.9.1" />
     <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
@@ -66,9 +69,9 @@
     <property name="database.notebook.setting.id" value="7b49cde9-84b1-44a0-9f96-d5239c9ccc22" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="evlsprt3.181" value="13" />
-    <property name="file.chooser.recent.files" value="D:/javaProject/bigboss&#10;F:/ideaConfig&#10;C:/Users/fuxue/Desktop/lombok-plugin-0.30-2020.1.zip&#10;D:/javaProject/brsc&#10;D:/jd-intellij-0.6.zip&#10;C:/Users/fuxue/Desktop/jd-gui-windows-1.6.6.zip&#10;D:/jd-gui-1.6.6.jar&#10;D:/javaTest&#10;D:/WorkSoft/Java/jdk1.8.0_101/bin/javap.exe&#10;D:/WorkSoft/Subversion/bin&#10;D:/WorkSoft/Subversion/bin/svn.exe&#10;D:/javaProject/brsc/brsc/src/main/java/com/tinet/brsc/model&#10;D:/javaProject/brsc/brsc/src/main/webapp/WEB-INF/lib&#10;D:/javaProject/brsc/bossapi&#10;D:/javaProject/brsc/brsc/target&#10;D:/javaProject/brsc/bossapi/target&#10;D:/WorkSoft/Java/jdk1.6&#10;D:/WorkSoft/Java/jre1.6&#10;D:/WorkSoft/Java/jdk1.6/jre&#10;C:/Users/fuxue/Desktop/bossapi_bigboss_20190618.war&#10;C:/Users/fuxue/Desktop/bossapi.war&#10;D:/javaProject/brsc/brsc/src/doc&#10;D:/javaProject/bigboss/bigboss-sdk&#10;C:/Program Files (x86)/Google/Chrome/Application/chrome.exe&#10;D:/brsc&#10;D:/WorkSoft/Java/jdk1.8.0_101&#10;F:/tianrun/BRSC/bossapi&#10;D:/javaProject/bigboss/bigboss-web/target&#10;D:/javaProject/brsc/brsc/src/main/webapp&#10;D:/javaProject/brsc/brsc/src/main/webapp/WEB-INF/web.xml" />
-    <property name="file.gist.reindex.count" value="75479" />
-    <property name="fileTypeChangedCounter" value="3" />
+    <property name="file.chooser.recent.files" value="D:/javaProject/bigboss&#10;D:/javaProject/brsc&#10;D:/WorkSoft/Git/bin/git.exe&#10;D:/WorkSoft/IntelliJ IDEA 2020.1.2/setting/ideaSetting&#10;C:/Users/fuxue/AppData/Roaming/JetBrains/IntelliJIdea2020.1&#10;F:/ideaConfig&#10;C:/Users/fuxue/Desktop/lombok-plugin-0.30-2020.1.zip&#10;D:/jd-intellij-0.6.zip&#10;C:/Users/fuxue/Desktop/jd-gui-windows-1.6.6.zip&#10;D:/jd-gui-1.6.6.jar&#10;D:/javaTest&#10;D:/WorkSoft/Java/jdk1.8.0_101/bin/javap.exe&#10;D:/WorkSoft/Subversion/bin&#10;D:/WorkSoft/Subversion/bin/svn.exe&#10;D:/javaProject/brsc/brsc/src/main/java/com/tinet/brsc/model&#10;D:/javaProject/brsc/brsc/src/main/webapp/WEB-INF/lib&#10;D:/javaProject/brsc/bossapi&#10;D:/javaProject/brsc/brsc/target&#10;D:/javaProject/brsc/bossapi/target&#10;D:/WorkSoft/Java/jdk1.6&#10;D:/WorkSoft/Java/jre1.6&#10;D:/WorkSoft/Java/jdk1.6/jre&#10;C:/Users/fuxue/Desktop/bossapi_bigboss_20190618.war&#10;C:/Users/fuxue/Desktop/bossapi.war&#10;D:/javaProject/brsc/brsc/src/doc&#10;D:/javaProject/bigboss/bigboss-sdk&#10;C:/Program Files (x86)/Google/Chrome/Application/chrome.exe&#10;D:/brsc&#10;D:/WorkSoft/Java/jdk1.8.0_101&#10;F:/tianrun/BRSC/bossapi" />
+    <property name="file.gist.reindex.count" value="75631" />
+    <property name="fileTypeChangedCounter" value="11" />
     <property name="find.popup.splitter" value="0.31378764" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="idea.background.editor" value="E:\image\7.jpg,15,scale,center" />
@@ -81,19 +84,19 @@
     <property name="kotlin.lastUpdateCheck" value="1592927186903" />
     <property name="kotlin.plugin.releaseDate" value="1.3.72-release-IJ2020.1-1:2020-04-14" />
     <property name="last.imported.location" value="D:/javaProject/bigboss/bigboss-sdk" />
-    <property name="lastSeenTip" value="neue-MoveUpDown.html" />
-    <property name="lastTimeTipsWereShown" value="1592991343090" />
+    <property name="lastSeenTip" value="neue-HighlightUsagesInFile.html" />
+    <property name="lastTimeTipsWereShown" value="1593659243001" />
     <property name="lastTip" value="170" />
-    <property name="last_opened_file_path" value="F:/ideaConfig" />
+    <property name="last_opened_file_path" value="D:/WorkSoft/Git/bin/git.exe" />
     <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="E:\image\1.jpg&#10;E:\image\7.jpg&#10;E:\image\2.jpg&#10;E:\image\3.jpg&#10;E:\image\4.jpg" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
-    <property name="packagesearch.status.updated.ts" value="1592904147905" />
+    <property name="packagesearch.status.updated.ts" value="1593571364168" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
     <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
     <property name="project.wizard.template" value="Maven" />
-    <property name="seenTips" value="neue-DiagramShowPopup.html,neue-MoveUpDown.html" />
-    <property name="selected.color.option.type" value="JAVA_KEYWORD" />
+    <property name="seenTips" value="neue-CommentCode.html,neue-YouTrack_integration.html,neue-DiagramShowPopup.html,neue-RecentSearch.html,neue-MoveUpDown.html,neue-HighlightUsagesInFile.html" />
+    <property name="selected.color.option.type" value="SQL_DATABASE_OBJECT" />
     <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
     <property name="spring.initializr.service.url.history" value="" />
     <property name="spring.initializr.service.url.last" value="https://start.spring.io" />

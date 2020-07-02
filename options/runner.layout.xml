@@ -49,9 +49,19 @@
         <option name="placeInGrid" value="bottom" />
         <option name="tabIndex" value="2" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\fuxue\AppData\Local\JetBrains\IntelliJIdea2020.1\tomcat\Unnamed_brsc_7\logs\localhost.2020-06-29.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\fuxue\AppData\Local\JetBrains\IntelliJIdea2020.1\tomcat\Unnamed_brsc_7\logs\catalina.2020-06-29.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="2" />
+      </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Server" />
-        <option name="leftProportion" value="0.19972165" />
+        <option name="leftProportion" value="0.19883527" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
@@ -1585,9 +1595,19 @@
         <option name="placeInGrid" value="bottom" />
         <option name="tabIndex" value="4" />
       </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\fuxue\AppData\Local\JetBrains\IntelliJIdea2020.1\tomcat\Unnamed_brsc_7\logs\localhost.2020-06-29.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="3" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="C:\Users\fuxue\AppData\Local\JetBrains\IntelliJIdea2020.1\tomcat\Unnamed_brsc_7\logs\catalina.2020-06-29.log" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="4" />
+      </ViewImpl>
       <TabImpl>
-        <option name="leftProportion" value="0.21527778" />
-        <option name="rightProportion" value="0.04761905" />
+        <option name="leftProportion" value="0.12690708" />
+        <option name="rightProportion" value="0.047156725" />
       </TabImpl>
       <TabImpl>
         <option name="defaultIndex" value="82" />
@@ -1597,7 +1617,7 @@
         <option name="bottomProportion" value="0.0" />
         <option name="defaultIndex" value="84" />
         <option name="index" value="2" />
-        <option name="leftProportion" value="0.17118998" />
+        <option name="leftProportion" value="0.171123" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />

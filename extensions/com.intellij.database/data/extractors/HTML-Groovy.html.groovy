@@ -12,7 +12,7 @@
  *   DataColumn  { columnNumber(), name() }
  */
 
-import static com.intellij.openapi.util.text.StringUtil.escapeXml
+import static com.intellij.openapi.util.text.StringUtil.escapeXmlEntities
 
 NEWLINE = System.getProperty("line.separator")
 
@@ -20,7 +20,7 @@ def printRow = { values, tag, valueToString ->
   OUT.append("$NEWLINE<tr>$NEWLINE")
   values.each {
     def str = valueToString(it)
-    def escaped = escapeXml((str as String).replaceAll("\\t|\\b|\\f", "")).replaceAll("\\r|\\n|\\r\\n", "<br/>")
+    def escaped = escapeXmlEntities((str as String).replaceAll("\\t|\\b|\\f", "")).replaceAll("\\r|\\n|\\r\\n", "<br/>")
     OUT.append("  <$tag>$escaped</$tag>$NEWLINE")
   }
   OUT.append("</tr>")

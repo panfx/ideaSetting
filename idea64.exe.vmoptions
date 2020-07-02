@@ -12,4 +12,7 @@
 -Djdk.attach.allowAttachSelf=true
 -Dkotlinx.coroutines.debug=off
 -Djdk.module.illegalAccess.silent=true
+#-javaagent:C:\Users\Public\.jetbrains\jetbrains-agent-v3.2.1.c46b.ed7=by https://zhile.io
+#-javaagent:C:\Users\Public\.jetbrains\jetbrains-agent-v3.2.1.c46b.ed7=by https://zhile.io
+#-javaagent:C:\Users\Public\.jetbrains\jetbrains-agent-v3.2.1.c46b.ed7=by https://zhile.io
 -javaagent:C:\Users\Public\.jetbrains\jetbrains-agent-v3.2.1.c46b.ed7=by https://zhile.io

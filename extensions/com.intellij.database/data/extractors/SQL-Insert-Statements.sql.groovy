@@ -1,5 +1,6 @@
 SEP = ", "
 QUOTE     = "\'"
+STRING_PREFIX = DIALECT.getDbms().isMicrosoft() ? "N" : ""
 NEWLINE   = System.getProperty("line.separator")
 
 KEYWORDS_LOWERCASE = com.intellij.database.util.DbSqlUtil.areKeywordsLowerCase(PROJECT)
@@ -22,9 +23,9 @@ def record(columns, dataRow) {
         def value = dataRow.value(column)
         def skipQuote = value.toString().isNumber() || value == null
         def stringValue = value != null ? FORMATTER.format(dataRow, column) : KW_NULL
-        if (DIALECT.getFamilyId().isMysql()) stringValue = stringValue.replace("\\", "\\\\")
-        OUT.append(skipQuote ? "": QUOTE).append(stringValue.replace(QUOTE, QUOTE + QUOTE))
-           .append(skipQuote ? "": QUOTE).append(idx != columns.size() - 1 ? SEP : "")
+        if (DIALECT.getDbms().isMysql()) stringValue = stringValue.replace("\\", "\\\\")
+        OUT.append(skipQuote ? "" : (STRING_PREFIX + QUOTE)).append(stringValue.replace(QUOTE, QUOTE + QUOTE))
+           .append(skipQuote ? "" : QUOTE).append(idx != columns.size() - 1 ? SEP : "")
     }
     OUT.append(");").append(NEWLINE)
 }
